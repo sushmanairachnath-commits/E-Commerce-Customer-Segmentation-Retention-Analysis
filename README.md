@@ -24,10 +24,10 @@ E-commerce marketplaces often spend marketing budgets on broad, untargeted disco
 ## 2. Dashboard Preview
 
 ### Page 1: Executive RFM Segmentation & Revenue Overview
-![Executive RFM Overview](images/page1_executive_overview.png)
+![Executive RFM Overview](images/page_1_Executive_Overview.png)
 
 ### Page 2: Retention Drivers, Category Mix & Action Plan
-![Retention Drivers & Category Mix](images/page2_retention_drivers.png)
+![Retention Drivers & Category Mix](images/page_2_Retention_Drivers.png)
 
 ---
 
