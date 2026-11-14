@@ -32,12 +32,12 @@ E-commerce marketplaces often spend marketing budgets on broad, untargeted disco
 ---
 
 ## 3. Data Architecture & Cleaning Decisions (MySQL)
-Rather than analyzing a single flat CSV, five normalized relational tables (`customers`, `orders`, `order_payments`, `order_items`, `products`) were modeled in **MySQL** with composite primary keys and strategic indexes (`sql/01_schema_and_import.sql`).
+Rather than analyzing a single flat CSV, five normalized relational tables (`customers`, `orders`, `order_payments`, `order_items`, `products`) were modeled in **MySQL** with composite primary keys and strategic indexes (`01_schema & import.sql`).
 
-Data validation (`sql/02_data_validation.sql`) uncovered three critical schema nuances handled before modeling:
+Data validation (`02_data validation.sql`) uncovered three critical schema nuances handled before modeling:
 1. **Resolving the `customer_unique_id` Schema Trap:** Olist assigns a new `customer_id` to every order (`99,441` IDs), whereas `customer_unique_id` identifies the actual person (`96,096` humans). Grouping by `customer_unique_id` ensured accurate repeat-purchase counts.
 2. **Filtering for Realized Revenue:** Only orders with `order_status = 'delivered'` (**96,478 orders**, 97.02%) and positive payment totals were included, excluding canceled, unavailable, and $0 voucher-only anomalies.
-3. **Preventing `NTILE(5)` Skew on Frequency:** Because **97%** of buyers had `Frequency = 1`, applying `NTILE(5)` to Frequency would randomly split identical 1-time buyers across scores 1–5. Instead, `NTILE(5)` was applied to continuous **Recency** and **Monetary** distributions, while **Frequency** used explicit business-rule tiers (`1` order vs. `2` orders vs. `3+` orders) inside `vw_customer_rfm` (`sql/03_rfm_segmentation_view.sql`).
+3. **Preventing `NTILE(5)` Skew on Frequency:** Because **97%** of buyers had `Frequency = 1`, applying `NTILE(5)` to Frequency would randomly split identical 1-time buyers across scores 1–5. Instead, `NTILE(5)` was applied to continuous **Recency** and **Monetary** distributions, while **Frequency** used explicit business-rule tiers (`1` order vs. `2` orders vs. `3+` orders) inside `vw_customer_rfm` (`03_rfm_segmentation_view.sql`).
 
 ---
 
