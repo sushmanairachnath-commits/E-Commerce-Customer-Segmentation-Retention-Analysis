@@ -1,0 +1,529 @@
+customer_segment,category,total_orders,category_revenue
+At Risk (High Spenders),relogios_presentes,1035,392596.29
+At Risk (High Spenders),beleza_saude,954,324602.81
+At Risk (High Spenders),cool_stuff,1062,309211.16
+At Risk (High Spenders),informatica_acessorios,797,289915.34
+At Risk (High Spenders),cama_mesa_banho,1326,284979.14
+At Risk (High Spenders),esporte_lazer,1011,268367.42
+At Risk (High Spenders),moveis_decoracao,857,208252.95
+At Risk (High Spenders),ferramentas_jardim,673,195984.96
+At Risk (High Spenders),brinquedos,749,190825.54
+At Risk (High Spenders),automotivo,539,186269.6
+At Risk (High Spenders),perfumaria,574,146587.57
+At Risk (High Spenders),pcs,100,140822.88
+At Risk (High Spenders),moveis_escritorio,504,137818.14
+At Risk (High Spenders),utilidades_domesticas,518,130605.01
+At Risk (High Spenders),bebes,390,104757.7
+At Risk (High Spenders),telefonia,305,82466.24
+At Risk (High Spenders),eletroportateis,128,76938.36
+At Risk (High Spenders),instrumentos_musicais,120,69084.28
+At Risk (High Spenders),Unknown,178,66160.75
+At Risk (High Spenders),consoles_games,168,61054.03
+At Risk (High Spenders),pet_shop,215,57787.37
+At Risk (High Spenders),malas_acessorios,231,57047.52
+At Risk (High Spenders),papelaria,218,45528.65
+At Risk (High Spenders),fashion_bolsas_e_acessorios,138,34008.36
+At Risk (High Spenders),eletronicos,122,33132.14
+At Risk (High Spenders),moveis_sala,116,32062.89
+At Risk (High Spenders),casa_conforto,111,27987.97
+At Risk (High Spenders),telefonia_fixa,30,26082.98
+At Risk (High Spenders),climatizacao,65,25095.46
+At Risk (High Spenders),agro_industria_e_comercio,22,24263.71
+At Risk (High Spenders),eletrodomesticos_2,60,20023.34
+At Risk (High Spenders),casa_construcao,49,17250.76
+At Risk (High Spenders),eletrodomesticos,53,16071.94
+At Risk (High Spenders),moveis_cozinha_area_de_servico_jantar_e_jardim,48,15069.39
+At Risk (High Spenders),construcao_ferramentas_construcao,44,14553.4
+At Risk (High Spenders),market_place,51,14485.52
+At Risk (High Spenders),livros_interesse_geral,61,10318.15
+At Risk (High Spenders),audio,43,9307.87
+At Risk (High Spenders),moveis_quarto,24,9028.72
+At Risk (High Spenders),artes,8,8002.53
+At Risk (High Spenders),fashion_calcados,33,7268.75
+At Risk (High Spenders),construcao_ferramentas_jardim,20,6820.92
+At Risk (High Spenders),construcao_ferramentas_seguranca,19,6615.02
+At Risk (High Spenders),industria_comercio_e_negocios,14,6557.93
+At Risk (High Spenders),alimentos_bebidas,24,4698.95
+At Risk (High Spenders),fashion_roupa_masculina,21,4649.86
+At Risk (High Spenders),construcao_ferramentas_iluminacao,14,4522.72
+At Risk (High Spenders),livros_tecnicos,19,4181.43
+At Risk (High Spenders),alimentos,21,3688.16
+At Risk (High Spenders),construcao_ferramentas_ferramentas,7,3588.33
+At Risk (High Spenders),fashion_underwear_e_moda_praia,15,2938.12
+At Risk (High Spenders),sinalizacao_e_seguranca,10,2727.8
+At Risk (High Spenders),dvds_blu_ray,4,2726.86
+At Risk (High Spenders),tablets_impressao_imagem,9,2214.65
+At Risk (High Spenders),bebidas,6,1583.87
+At Risk (High Spenders),moveis_colchao_e_estofado,5,1533.32
+At Risk (High Spenders),artigos_de_natal,8,1508.14
+At Risk (High Spenders),artigos_de_festas,4,1453.2
+At Risk (High Spenders),musica,4,1393.95
+At Risk (High Spenders),fashion_roupa_feminina,8,1209.84
+At Risk (High Spenders),fashion_esporte,5,1129.84
+At Risk (High Spenders),la_cuisine,7,1111.09
+At Risk (High Spenders),portateis_casa_forno_e_cafe,1,673.47
+At Risk (High Spenders),pc_gamer,4,584.06
+At Risk (High Spenders),livros_importados,2,373.8
+At Risk (High Spenders),cine_foto,1,259.94
+At Risk (High Spenders),casa_conforto_2,1,237.68
+At Risk (High Spenders),seguros_e_servicos,1,209.06
+At Risk (High Spenders),fraldas_higiene,1,150.99
+At Risk (Repeat Buyers),cama_mesa_banho,354,46824.78
+At Risk (Repeat Buyers),moveis_decoracao,262,34639.32
+At Risk (Repeat Buyers),esporte_lazer,223,33197.29
+At Risk (Repeat Buyers),beleza_saude,194,26257.65
+At Risk (Repeat Buyers),informatica_acessorios,97,18348.29
+At Risk (Repeat Buyers),eletroportateis,17,10544.68
+At Risk (Repeat Buyers),utilidades_domesticas,105,10058.7
+At Risk (Repeat Buyers),perfumaria,59,9292.37
+At Risk (Repeat Buyers),relogios_presentes,52,9136.53
+At Risk (Repeat Buyers),fashion_bolsas_e_acessorios,101,8973.3
+At Risk (Repeat Buyers),brinquedos,65,8556.11
+At Risk (Repeat Buyers),cool_stuff,42,7132.98
+At Risk (Repeat Buyers),ferramentas_jardim,54,6084.26
+At Risk (Repeat Buyers),telefonia,64,6072.05
+At Risk (Repeat Buyers),pet_shop,33,4688.18
+At Risk (Repeat Buyers),bebes,38,4253.26
+At Risk (Repeat Buyers),moveis_escritorio,18,4191.02
+At Risk (Repeat Buyers),pcs,3,3841.89
+At Risk (Repeat Buyers),automotivo,37,3760.25
+At Risk (Repeat Buyers),consoles_games,16,3723.8
+At Risk (Repeat Buyers),Unknown,34,3169.58
+At Risk (Repeat Buyers),malas_acessorios,17,2602.07
+At Risk (Repeat Buyers),casa_conforto,15,2573.87
+At Risk (Repeat Buyers),eletrodomesticos,36,2166.38
+At Risk (Repeat Buyers),papelaria,22,2162.42
+At Risk (Repeat Buyers),climatizacao,6,1941.88
+At Risk (Repeat Buyers),eletronicos,22,1937.74
+At Risk (Repeat Buyers),eletrodomesticos_2,6,1895.94
+At Risk (Repeat Buyers),moveis_sala,10,1637
+At Risk (Repeat Buyers),alimentos,11,1629.75
+At Risk (Repeat Buyers),agro_industria_e_comercio,4,1253.95
+At Risk (Repeat Buyers),fashion_roupa_masculina,8,1039.32
+At Risk (Repeat Buyers),fashion_calcados,9,911.66
+At Risk (Repeat Buyers),market_place,7,759.01
+At Risk (Repeat Buyers),instrumentos_musicais,5,755.71
+At Risk (Repeat Buyers),construcao_ferramentas_construcao,2,685.94
+At Risk (Repeat Buyers),casa_construcao,4,596.11
+At Risk (Repeat Buyers),telefonia_fixa,5,504
+At Risk (Repeat Buyers),moveis_cozinha_area_de_servico_jantar_e_jardim,3,494.57
+At Risk (Repeat Buyers),alimentos_bebidas,5,360.49
+At Risk (Repeat Buyers),bebidas,3,329.87
+At Risk (Repeat Buyers),fashion_underwear_e_moda_praia,2,312.37
+At Risk (Repeat Buyers),livros_interesse_geral,5,246.49
+At Risk (Repeat Buyers),construcao_ferramentas_jardim,3,218.02
+At Risk (Repeat Buyers),audio,2,209.56
+At Risk (Repeat Buyers),industria_comercio_e_negocios,1,207.22
+At Risk (Repeat Buyers),moveis_colchao_e_estofado,1,150.97
+At Risk (Repeat Buyers),la_cuisine,1,119.6
+At Risk (Repeat Buyers),tablets_impressao_imagem,1,108.44
+At Risk (Repeat Buyers),moveis_quarto,6,105.72
+At Risk (Repeat Buyers),artes,2,91.94
+At Risk (Repeat Buyers),casa_conforto_2,2,56
+At Risk (Repeat Buyers),musica,2,37.24
+At Risk (Repeat Buyers),artigos_de_natal,1,28.87
+Big-Spending Newcomers,beleza_saude,1503,470524.95
+Big-Spending Newcomers,relogios_presentes,1524,464480.57
+Big-Spending Newcomers,cama_mesa_banho,1154,270887.13
+Big-Spending Newcomers,esporte_lazer,998,264114.41
+Big-Spending Newcomers,utilidades_domesticas,974,259004.09
+Big-Spending Newcomers,informatica_acessorios,980,236872.39
+Big-Spending Newcomers,moveis_decoracao,947,228084.54
+Big-Spending Newcomers,automotivo,700,219314.04
+Big-Spending Newcomers,bebes,507,165153.7
+Big-Spending Newcomers,cool_stuff,539,141955.2
+Big-Spending Newcomers,ferramentas_jardim,402,130819.44
+Big-Spending Newcomers,moveis_escritorio,362,112571.26
+Big-Spending Newcomers,telefonia,255,108666.21
+Big-Spending Newcomers,perfumaria,472,106421.62
+Big-Spending Newcomers,brinquedos,329,94964.26
+Big-Spending Newcomers,construcao_ferramentas_construcao,235,91023.59
+Big-Spending Newcomers,instrumentos_musicais,122,77701.36
+Big-Spending Newcomers,pet_shop,288,77021.43
+Big-Spending Newcomers,eletrodomesticos_2,93,72747.1
+Big-Spending Newcomers,eletroportateis,99,59432.29
+Big-Spending Newcomers,pcs,44,58723.72
+Big-Spending Newcomers,papelaria,258,54405.86
+Big-Spending Newcomers,eletronicos,141,44312.74
+Big-Spending Newcomers,portateis_casa_forno_e_cafe,44,42852.48
+Big-Spending Newcomers,casa_construcao,164,39748.56
+Big-Spending Newcomers,consoles_games,75,32570.51
+Big-Spending Newcomers,eletrodomesticos,101,32180.08
+Big-Spending Newcomers,malas_acessorios,128,31961.81
+Big-Spending Newcomers,construcao_ferramentas_iluminacao,119,29612.46
+Big-Spending Newcomers,Unknown,149,28127.88
+Big-Spending Newcomers,agro_industria_e_comercio,55,27850.63
+Big-Spending Newcomers,fashion_bolsas_e_acessorios,92,24586.6
+Big-Spending Newcomers,audio,64,23621.26
+Big-Spending Newcomers,moveis_sala,82,22602.51
+Big-Spending Newcomers,construcao_ferramentas_seguranca,51,19429.74
+Big-Spending Newcomers,telefonia_fixa,35,18959.94
+Big-Spending Newcomers,industria_comercio_e_negocios,66,17549.07
+Big-Spending Newcomers,moveis_cozinha_area_de_servico_jantar_e_jardim,48,17438.07
+Big-Spending Newcomers,climatizacao,57,17152.49
+Big-Spending Newcomers,livros_interesse_geral,46,16795.13
+Big-Spending Newcomers,sinalizacao_e_seguranca,37,16177.37
+Big-Spending Newcomers,casa_conforto,50,10898.52
+Big-Spending Newcomers,moveis_quarto,33,9664.4
+Big-Spending Newcomers,construcao_ferramentas_ferramentas,19,7926.39
+Big-Spending Newcomers,bebidas,25,7912.91
+Big-Spending Newcomers,construcao_ferramentas_jardim,27,7817.25
+Big-Spending Newcomers,alimentos,25,4285.74
+Big-Spending Newcomers,musica,11,4020.08
+Big-Spending Newcomers,portateis_cozinha_e_preparadores_de_alimentos,4,3731.09
+Big-Spending Newcomers,fashion_calcados,17,3652.05
+Big-Spending Newcomers,livros_tecnicos,15,3094.57
+Big-Spending Newcomers,alimentos_bebidas,11,3073.33
+Big-Spending Newcomers,cine_foto,13,2841.05
+Big-Spending Newcomers,market_place,13,2373.19
+Big-Spending Newcomers,artes,13,1906.79
+Big-Spending Newcomers,livros_importados,6,1697.05
+Big-Spending Newcomers,artigos_de_festas,7,1406.56
+Big-Spending Newcomers,artigos_de_natal,4,1213.5
+Big-Spending Newcomers,artes_e_artesanato,6,1202.18
+Big-Spending Newcomers,fashion_roupa_masculina,5,982.23
+Big-Spending Newcomers,la_cuisine,2,760.82
+Big-Spending Newcomers,pc_gamer,2,696.01
+Big-Spending Newcomers,moveis_colchao_e_estofado,3,424.79
+Big-Spending Newcomers,tablets_impressao_imagem,1,225.08
+Big-Spending Newcomers,fashion_roupa_feminina,1,218.15
+Big-Spending Newcomers,flores,2,208.88
+Big-Spending Newcomers,fashion_underwear_e_moda_praia,1,173.78
+Big-Spending Newcomers,fraldas_higiene,1,158.97
+Big-Spending Newcomers,dvds_blu_ray,1,110.98
+Champions,cama_mesa_banho,268,40749.27
+Champions,relogios_presentes,148,35632.65
+Champions,moveis_decoracao,185,29275.34
+Champions,esporte_lazer,201,28039.32
+Champions,beleza_saude,171,26032.28
+Champions,utilidades_domesticas,148,24703.87
+Champions,informatica_acessorios,130,23994.93
+Champions,automotivo,74,14599.21
+Champions,ferramentas_jardim,84,12417.06
+Champions,brinquedos,68,10751.04
+Champions,cool_stuff,49,10634.06
+Champions,telefonia,53,8636.88
+Champions,bebes,49,8625.14
+Champions,perfumaria,53,8435.97
+Champions,fashion_bolsas_e_acessorios,66,8189.99
+Champions,pet_shop,47,7111.07
+Champions,moveis_escritorio,17,6701.2
+Champions,eletrodomesticos,38,6017.55
+Champions,construcao_ferramentas_construcao,26,5076.08
+Champions,papelaria,40,4863.89
+Champions,moveis_sala,18,4294.43
+Champions,malas_acessorios,23,3889.24
+Champions,eletroportateis,6,3406.15
+Champions,casa_construcao,20,3356.32
+Champions,Unknown,22,3228.06
+Champions,bebidas,17,2083.97
+Champions,construcao_ferramentas_iluminacao,9,1954.98
+Champions,instrumentos_musicais,9,1860.09
+Champions,casa_conforto,12,1748.16
+Champions,consoles_games,12,1718.52
+Champions,construcao_ferramentas_seguranca,9,1680.35
+Champions,fashion_calcados,8,1572.91
+Champions,audio,8,1132.51
+Champions,climatizacao,6,1130.8
+Champions,livros_interesse_geral,11,1108.39
+Champions,construcao_ferramentas_jardim,5,1080.53
+Champions,eletronicos,14,1048.28
+Champions,cine_foto,2,1037.07
+Champions,industria_comercio_e_negocios,6,1037.05
+Champions,eletrodomesticos_2,4,1036.55
+Champions,moveis_cozinha_area_de_servico_jantar_e_jardim,7,904.12
+Champions,alimentos_bebidas,8,682.3
+Champions,moveis_quarto,3,664.62
+Champions,alimentos,7,595.6
+Champions,construcao_ferramentas_ferramentas,2,518.1
+Champions,sinalizacao_e_seguranca,3,481.54
+Champions,dvds_blu_ray,3,399.57
+Champions,fraldas_higiene,2,382
+Champions,artes_e_artesanato,3,310.12
+Champions,artes,3,304.53
+Champions,fashion_roupa_feminina,3,304.35
+Champions,artigos_de_natal,4,295.47
+Champions,telefonia_fixa,2,250.67
+Champions,la_cuisine,1,232.19
+Champions,livros_importados,2,228.18
+Champions,livros_tecnicos,2,204.54
+Champions,moveis_colchao_e_estofado,1,148.97
+Champions,market_place,1,112.51
+Champions,fashion_underwear_e_moda_praia,1,95.65
+Champions,fashion_roupa_masculina,1,63.12
+Champions,tablets_impressao_imagem,1,60.72
+Champions,agro_industria_e_comercio,1,48.83
+Champions,fashion_roupa_infanto_juvenil,1,46.42
+Champions,fashion_esporte,1,39.09
+Champions,artigos_de_festas,1,38.69
+Champions,musica,1,11.56
+Hibernating / Lost,cama_mesa_banho,2265,188704.75
+Hibernating / Lost,esporte_lazer,1890,144119.58
+Hibernating / Lost,beleza_saude,1801,132248.52
+Hibernating / Lost,moveis_decoracao,1747,130688.3
+Hibernating / Lost,utilidades_domesticas,1527,103801.99
+Hibernating / Lost,brinquedos,1264,99362.3
+Hibernating / Lost,informatica_acessorios,1418,93277.21
+Hibernating / Lost,ferramentas_jardim,955,73987
+Hibernating / Lost,cool_stuff,840,73275.68
+Hibernating / Lost,telefonia,1384,66970.68
+Hibernating / Lost,perfumaria,779,57304.84
+Hibernating / Lost,relogios_presentes,671,46713.83
+Hibernating / Lost,bebes,626,45895.6
+Hibernating / Lost,fashion_bolsas_e_acessorios,635,40659.1
+Hibernating / Lost,automotivo,597,40332.69
+Hibernating / Lost,papelaria,457,36879.65
+Hibernating / Lost,Unknown,444,29447.5
+Hibernating / Lost,pet_shop,371,29129.86
+Hibernating / Lost,eletronicos,498,25211.74
+Hibernating / Lost,malas_acessorios,263,24909.71
+Hibernating / Lost,consoles_games,382,23497.3
+Hibernating / Lost,eletroportateis,130,9872.77
+Hibernating / Lost,casa_conforto,109,9782.7
+Hibernating / Lost,livros_interesse_geral,111,8603.22
+Hibernating / Lost,fashion_calcados,112,8189.34
+Hibernating / Lost,eletrodomesticos,129,7949.51
+Hibernating / Lost,market_place,108,7470.71
+Hibernating / Lost,audio,95,6986.8
+Hibernating / Lost,moveis_escritorio,57,6651.43
+Hibernating / Lost,instrumentos_musicais,79,5612.68
+Hibernating / Lost,moveis_sala,59,5597.66
+Hibernating / Lost,tablets_impressao_imagem,44,4493.84
+Hibernating / Lost,telefonia_fixa,86,3925.91
+Hibernating / Lost,alimentos,59,3809.37
+Hibernating / Lost,climatizacao,39,3440.43
+Hibernating / Lost,fashion_underwear_e_moda_praia,48,3388.85
+Hibernating / Lost,fashion_roupa_masculina,48,3359.43
+Hibernating / Lost,construcao_ferramentas_construcao,39,3121.93
+Hibernating / Lost,alimentos_bebidas,59,3099.52
+Hibernating / Lost,moveis_cozinha_area_de_servico_jantar_e_jardim,39,2838.81
+Hibernating / Lost,casa_construcao,30,2584.48
+Hibernating / Lost,construcao_ferramentas_jardim,32,1992.82
+Hibernating / Lost,bebidas,31,1940.95
+Hibernating / Lost,livros_tecnicos,21,1745.81
+Hibernating / Lost,sinalizacao_e_seguranca,20,1716.31
+Hibernating / Lost,artigos_de_natal,25,1568.62
+Hibernating / Lost,artes,18,1358.9
+Hibernating / Lost,industria_comercio_e_negocios,13,1341.14
+Hibernating / Lost,dvds_blu_ray,29,1232.64
+Hibernating / Lost,fashion_roupa_feminina,18,1075.4
+Hibernating / Lost,fashion_esporte,14,980.67
+Hibernating / Lost,eletrodomesticos_2,11,912.74
+Hibernating / Lost,agro_industria_e_comercio,15,818.72
+Hibernating / Lost,cds_dvds_musicais,10,762.47
+Hibernating / Lost,cine_foto,7,676.01
+Hibernating / Lost,construcao_ferramentas_seguranca,9,649.5
+Hibernating / Lost,casa_conforto_2,14,592.99
+Hibernating / Lost,livros_importados,7,552.73
+Hibernating / Lost,moveis_quarto,6,503
+Hibernating / Lost,construcao_ferramentas_ferramentas,9,498.47
+Hibernating / Lost,moveis_colchao_e_estofado,4,480.37
+Hibernating / Lost,fashion_roupa_infanto_juvenil,4,404.63
+Hibernating / Lost,flores,7,343.36
+Hibernating / Lost,musica,5,299.09
+Hibernating / Lost,artigos_de_festas,4,277.12
+Hibernating / Lost,portateis_casa_forno_e_cafe,2,122.4
+Hibernating / Lost,seguros_e_servicos,1,115.45
+Hibernating / Lost,construcao_ferramentas_iluminacao,1,66.78
+Hibernating / Lost,la_cuisine,1,34.81
+Hibernating / Lost,artes_e_artesanato,1,29.66
+Loyal Customers,informatica_acessorios,168,27588.26
+Loyal Customers,cama_mesa_banho,220,26638.6
+Loyal Customers,esporte_lazer,151,21527.84
+Loyal Customers,moveis_decoracao,127,14869.53
+Loyal Customers,relogios_presentes,73,12240.38
+Loyal Customers,beleza_saude,120,11177.48
+Loyal Customers,utilidades_domesticas,88,7050.82
+Loyal Customers,cool_stuff,34,6806.86
+Loyal Customers,brinquedos,62,6582.37
+Loyal Customers,perfumaria,60,6453.76
+Loyal Customers,ferramentas_jardim,46,5821.95
+Loyal Customers,automotivo,54,5584.6
+Loyal Customers,bebes,50,5178.38
+Loyal Customers,moveis_escritorio,16,4721.94
+Loyal Customers,Unknown,26,3300.84
+Loyal Customers,eletronicos,47,3226.54
+Loyal Customers,papelaria,35,3223.22
+Loyal Customers,fashion_bolsas_e_acessorios,51,3024.26
+Loyal Customers,telefonia,66,2847.28
+Loyal Customers,eletrodomesticos,57,2789.13
+Loyal Customers,construcao_ferramentas_construcao,9,2660.66
+Loyal Customers,pet_shop,22,2537.05
+Loyal Customers,consoles_games,9,2376.86
+Loyal Customers,moveis_sala,9,1658.44
+Loyal Customers,casa_construcao,8,1300.28
+Loyal Customers,malas_acessorios,6,1293.36
+Loyal Customers,instrumentos_musicais,9,1215.16
+Loyal Customers,climatizacao,8,967.01
+Loyal Customers,alimentos,8,951.25
+Loyal Customers,eletrodomesticos_2,4,813.45
+Loyal Customers,portateis_casa_forno_e_cafe,1,793.09
+Loyal Customers,construcao_ferramentas_iluminacao,3,770.48
+Loyal Customers,construcao_ferramentas_jardim,4,745.45
+Loyal Customers,pcs,1,666.68
+Loyal Customers,audio,5,574.35
+Loyal Customers,telefonia_fixa,4,561.38
+Loyal Customers,casa_conforto,3,490.94
+Loyal Customers,industria_comercio_e_negocios,3,459.36
+Loyal Customers,moveis_colchao_e_estofado,2,444.71
+Loyal Customers,market_place,5,421.38
+Loyal Customers,fashion_underwear_e_moda_praia,5,413.11
+Loyal Customers,bebidas,8,352.16
+Loyal Customers,moveis_cozinha_area_de_servico_jantar_e_jardim,1,335.31
+Loyal Customers,moveis_quarto,2,314.36
+Loyal Customers,eletroportateis,2,296.95
+Loyal Customers,artes,2,284.73
+Loyal Customers,livros_interesse_geral,5,282.2
+Loyal Customers,fashion_roupa_masculina,3,281.59
+Loyal Customers,pc_gamer,1,150.03
+Loyal Customers,sinalizacao_e_seguranca,2,149.32
+Loyal Customers,livros_tecnicos,3,126.15
+Loyal Customers,tablets_impressao_imagem,2,122.93
+Loyal Customers,artes_e_artesanato,2,118
+Loyal Customers,fashion_roupa_feminina,1,78.7
+Loyal Customers,fashion_calcados,1,73.75
+Loyal Customers,fashion_esporte,1,70.27
+Loyal Customers,alimentos_bebidas,2,56.46
+Loyal Customers,artigos_de_natal,2,42.46
+Loyal Customers,musica,1,40.07
+Loyal Customers,livros_importados,1,26.38
+Loyal Customers,construcao_ferramentas_ferramentas,1,26.12
+Promising / Needs Nurturing,informatica_acessorios,1549,242587.26
+Promising / Needs Nurturing,beleza_saude,1529,242000.32
+Promising / Needs Nurturing,esporte_lazer,1498,241525.52
+Promising / Needs Nurturing,relogios_presentes,903,206375.83
+Promising / Needs Nurturing,cama_mesa_banho,1597,199033.94
+Promising / Needs Nurturing,moveis_decoracao,1017,139101.1
+Promising / Needs Nurturing,automotivo,748,127790.63
+Promising / Needs Nurturing,utilidades_domesticas,839,117493.48
+Promising / Needs Nurturing,cool_stuff,674,115897.1
+Promising / Needs Nurturing,ferramentas_jardim,635,97016.35
+Promising / Needs Nurturing,brinquedos,570,84358.95
+Promising / Needs Nurturing,bebes,479,83371.04
+Promising / Needs Nurturing,papelaria,686,82261.62
+Promising / Needs Nurturing,perfumaria,589,72157.26
+Promising / Needs Nurturing,moveis_escritorio,223,56424.08
+Promising / Needs Nurturing,Unknown,398,54307.07
+Promising / Needs Nurturing,telefonia,875,51528.14
+Promising / Needs Nurturing,eletronicos,778,50165.29
+Promising / Needs Nurturing,instrumentos_musicais,123,35248.08
+Promising / Needs Nurturing,malas_acessorios,199,34750.7
+Promising / Needs Nurturing,fashion_bolsas_e_acessorios,314,32114.49
+Promising / Needs Nurturing,consoles_games,183,30997.14
+Promising / Needs Nurturing,pet_shop,219,30647.4
+Promising / Needs Nurturing,eletroportateis,103,29168.17
+Promising / Needs Nurturing,construcao_ferramentas_construcao,108,26079.3
+Promising / Needs Nurturing,pcs,28,24241.75
+Promising / Needs Nurturing,eletrodomesticos_2,36,19897.08
+Promising / Needs Nurturing,agro_industria_e_comercio,46,19705.58
+Promising / Needs Nurturing,casa_construcao,81,18515.72
+Promising / Needs Nurturing,moveis_cozinha_area_de_servico_jantar_e_jardim,51,16568.47
+Promising / Needs Nurturing,eletrodomesticos,76,10914.23
+Promising / Needs Nurturing,audio,56,10775.1
+Promising / Needs Nurturing,moveis_sala,50,10557.14
+Promising / Needs Nurturing,industria_comercio_e_negocios,52,10475.21
+Promising / Needs Nurturing,construcao_ferramentas_seguranca,24,10159.85
+Promising / Needs Nurturing,casa_conforto,47,8479.15
+Promising / Needs Nurturing,livros_interesse_geral,108,8296.27
+Promising / Needs Nurturing,climatizacao,32,7872.3
+Promising / Needs Nurturing,construcao_ferramentas_jardim,41,7563.89
+Promising / Needs Nurturing,telefonia_fixa,21,7328.14
+Promising / Needs Nurturing,bebidas,88,6813.75
+Promising / Needs Nurturing,artigos_de_natal,43,4965.67
+Promising / Needs Nurturing,market_place,43,4618.47
+Promising / Needs Nurturing,artes,32,4460.04
+Promising / Needs Nurturing,construcao_ferramentas_iluminacao,15,4270.71
+Promising / Needs Nurturing,livros_tecnicos,42,3825.51
+Promising / Needs Nurturing,alimentos,54,3776.95
+Promising / Needs Nurturing,portateis_casa_forno_e_cafe,6,3598.77
+Promising / Needs Nurturing,fashion_calcados,28,3368.27
+Promising / Needs Nurturing,alimentos_bebidas,46,3319.89
+Promising / Needs Nurturing,sinalizacao_e_seguranca,17,2976.76
+Promising / Needs Nurturing,moveis_colchao_e_estofado,21,2721.62
+Promising / Needs Nurturing,fashion_underwear_e_moda_praia,28,2658.66
+Promising / Needs Nurturing,construcao_ferramentas_ferramentas,24,2634.12
+Promising / Needs Nurturing,moveis_quarto,12,2615.38
+Promising / Needs Nurturing,fashion_roupa_masculina,10,1483.37
+Promising / Needs Nurturing,tablets_impressao_imagem,18,1327.67
+Promising / Needs Nurturing,livros_importados,11,1186.48
+Promising / Needs Nurturing,artigos_de_festas,5,932.64
+Promising / Needs Nurturing,flores,12,664.87
+Promising / Needs Nurturing,cine_foto,4,495.9
+Promising / Needs Nurturing,musica,2,277.24
+Promising / Needs Nurturing,dvds_blu_ray,4,274.6
+Promising / Needs Nurturing,fraldas_higiene,2,250.46
+Promising / Needs Nurturing,fashion_roupa_feminina,3,162.87
+Promising / Needs Nurturing,fashion_esporte,2,151.83
+Promising / Needs Nurturing,la_cuisine,1,130.03
+Promising / Needs Nurturing,casa_conforto_2,3,128.33
+Promising / Needs Nurturing,cds_dvds_musicais,1,74.94
+Recent One-Time Buyers,beleza_saude,2374,179102.06
+Recent One-Time Buyers,cama_mesa_banho,2088,167391.65
+Recent One-Time Buyers,esporte_lazer,1558,117365.53
+Recent One-Time Buyers,utilidades_domesticas,1544,105674.29
+Recent One-Time Buyers,informatica_acessorios,1391,100140.09
+Recent One-Time Buyers,relogios_presentes,1089,97157.04
+Recent One-Time Buyers,moveis_decoracao,1165,95418.84
+Recent One-Time Buyers,automotivo,1061,71803.73
+Recent One-Time Buyers,telefonia,1091,52015.14
+Recent One-Time Buyers,brinquedos,697,51660.49
+Recent One-Time Buyers,bebes,670,49492.83
+Recent One-Time Buyers,ferramentas_jardim,599,45014.66
+Recent One-Time Buyers,pet_shop,493,41691.84
+Recent One-Time Buyers,eletronicos,895,41688.62
+Recent One-Time Buyers,papelaria,548,40249.74
+Recent One-Time Buyers,perfumaria,500,36518.24
+Recent One-Time Buyers,fashion_bolsas_e_acessorios,423,28332.19
+Recent One-Time Buyers,cool_stuff,319,26767.85
+Recent One-Time Buyers,construcao_ferramentas_construcao,273,19181.11
+Recent One-Time Buyers,alimentos,256,17057.86
+Recent One-Time Buyers,eletrodomesticos,257,15212.96
+Recent One-Time Buyers,malas_acessorios,152,12323.71
+Recent One-Time Buyers,casa_construcao,127,11670.14
+Recent One-Time Buyers,consoles_games,173,11159.57
+Recent One-Time Buyers,artes,117,11076.07
+Recent One-Time Buyers,instrumentos_musicais,144,10709.76
+Recent One-Time Buyers,Unknown,141,9954.01
+Recent One-Time Buyers,livros_tecnicos,154,9723.06
+Recent One-Time Buyers,livros_interesse_geral,149,8532.69
+Recent One-Time Buyers,industria_comercio_e_negocios,77,8452.36
+Recent One-Time Buyers,eletroportateis,124,8449.1
+Recent One-Time Buyers,moveis_sala,70,6635
+Recent One-Time Buyers,construcao_ferramentas_iluminacao,81,6249.01
+Recent One-Time Buyers,moveis_escritorio,57,6132.29
+Recent One-Time Buyers,bebidas,109,5953.63
+Recent One-Time Buyers,casa_conforto,45,4476.91
+Recent One-Time Buyers,alimentos_bebidas,66,4046.83
+Recent One-Time Buyers,construcao_ferramentas_jardim,58,4045.06
+Recent One-Time Buyers,construcao_ferramentas_seguranca,47,3969.56
+Recent One-Time Buyers,audio,75,3647.87
+Recent One-Time Buyers,sinalizacao_e_seguranca,49,3563.49
+Recent One-Time Buyers,moveis_cozinha_area_de_servico_jantar_e_jardim,44,3424.23
+Recent One-Time Buyers,market_place,46,2873.59
+Recent One-Time Buyers,fashion_calcados,27,2778.1
+Recent One-Time Buyers,construcao_ferramentas_ferramentas,35,2742.64
+Recent One-Time Buyers,cine_foto,36,2592.21
+Recent One-Time Buyers,artigos_de_natal,38,2306.02
+Recent One-Time Buyers,agro_industria_e_comercio,34,2261.88
+Recent One-Time Buyers,climatizacao,33,2254.18
+Recent One-Time Buyers,telefonia_fixa,29,2203.52
+Recent One-Time Buyers,portateis_casa_forno_e_cafe,18,1205.69
+Recent One-Time Buyers,fashion_underwear_e_moda_praia,17,1179.48
+Recent One-Time Buyers,artigos_de_festas,17,1177.17
+Recent One-Time Buyers,fraldas_higiene,19,1103.77
+Recent One-Time Buyers,livros_importados,21,1086.32
+Recent One-Time Buyers,dvds_blu_ray,15,1025.19
+Recent One-Time Buyers,eletrodomesticos_2,13,882.32
+Recent One-Time Buyers,fashion_roupa_masculina,10,656.03
+Recent One-Time Buyers,musica,12,645.63
+Recent One-Time Buyers,artes_e_artesanato,11,524.18
+Recent One-Time Buyers,portateis_cozinha_e_preparadores_de_alimentos,9,496.96
+Recent One-Time Buyers,moveis_quarto,4,483.02
+Recent One-Time Buyers,flores,8,381.8
+Recent One-Time Buyers,fashion_esporte,3,285.85
+Recent One-Time Buyers,tablets_impressao_imagem,3,201.28
+Recent One-Time Buyers,fashion_roupa_feminina,2,169.13
+Recent One-Time Buyers,casa_conforto_2,4,155.58
+Recent One-Time Buyers,fashion_roupa_infanto_juvenil,2,147.62
+Recent One-Time Buyers,cds_dvds_musicais,1,117.58
+Recent One-Time Buyers,pcs,1,52.84

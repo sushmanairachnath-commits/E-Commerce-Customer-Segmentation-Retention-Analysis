@@ -1,0 +1,9 @@
+customer_segment,delivered_orders,avg_delivery_days,late_delivery_pct
+"Promising / Needs Nurturing",18065,15.6,11.35
+"Loyal Customers",1709,13.5,9.48
+"Big-Spending Newcomers",14398,11.9,8.29
+"Recent One-Time Buyers",21734,9.9,8.11
+"At Risk (High Spenders)",13784,13.8,7.22
+Champions,2151,11.3,7.21
+"Hibernating / Lost",22567,12.2,6.25
+"At Risk (Repeat Buyers)",2061,12.2,4.66
